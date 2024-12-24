@@ -1,0 +1,32 @@
+{
+  "name": "mariam-abdrabu-portfolio",
+  "version": "1.0.0",
+  "description": "Mariam A Abdrabu's Portfolio Website",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdelrahman-datascience/mariam-abdrabu.git"
+  },
+  "author": "Mariam A. Abdrabu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abdelrahman-datascience/mariam-abdrabu/issues"
+  },
+  "homepage": "https://github.com/abdelrahman-datascience/mariam-abdrabu#readme",
+  "dependencies": {
+    "next": "^15.1.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "22.10.2",
+    "@types/react": "19.0.2",
+    "typescript": "5.7.2"
+  }
+}
